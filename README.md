@@ -1,0 +1,2 @@
+# JLU_DeepLearning_MyProject
+基于AlphaZero算法和Pytorch神经网络的国际象棋深度学习模型
